@@ -1,0 +1,47 @@
+/* mobile responsive */
+@media only screen and (max-width:480px) {
+    .table-data-responsive {
+        display: none;
+    }
+
+    .sidebar-mobile-responsive {
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
+
+    .inventory-responsive {
+        margin-left: 30px;
+    }
+
+    .text-responsive {
+        padding-left: 20px;
+    }
+}
+/* tablet responsive */
+
+@media only screen and (min-width: 768px) {
+    .tablet-none>p>span {
+        display: none;
+    }
+
+    .tablet-responsive {
+        display: none;
+    }
+
+    .tablet-sidebar {
+        display: flex;
+    }
+}
+
+/* desktop responsive */
+@media only screen and (min-width: 992px) {
+
+    .tablet-none>p>span {
+        display: inline-block;
+    }
+
+    .tablet-responsive {
+        display: block;
+    }
+}

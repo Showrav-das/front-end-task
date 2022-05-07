@@ -1,0 +1,25 @@
+.input-width {
+  width: 392px;
+}
+
+.navbar-set {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* mobile responsive */
+@media only screen and (max-width:480px) {
+  .input-width {
+    width: 342px;
+  }
+
+  .mobile-res {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .mobile-none {
+    display: none;
+  }
+}

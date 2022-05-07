@@ -1,0 +1,102 @@
+[
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"This is Hammer to do work",
+        "Status":"Alright",
+        "active":"active",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"This is Hammer to do work",
+        "Status":"Alright",
+        "active":"active",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"Wood plan will be used to do woodworks, duh",
+        "Status":"Inprogress",
+        "active":"processing",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"-",
+        "Status":"Out of Stock",
+        "active":"inactive",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"-",
+        "Status":"Out of Stock",
+        "active":"inactive",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"0.00"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"-",
+        "Status":"Out of Stock",
+        "active":"inactive",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"This is Hammer to do work",
+        "Status":"Alright",
+        "active":"active",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"This is Hammer to do work",
+        "Status":"Alright",
+        "active":"active",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "11 Nov 2021",
+        "Title":"Hammer",
+        "Details":"This is Hammer to do work",
+        "Status":"Alright",
+        "active":"active",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    },
+    {
+        "date": "23 Sep 2021",
+        "Title":"Hammer",
+        "Details":"This is Hammer to do work",
+        "Status":"Alright",
+        "active":"active",
+        "Quantity":"200/300",
+        "Unit_price":"10",
+        "Amount":"2000"
+    }
+]
